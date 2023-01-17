@@ -1,6 +1,6 @@
-# Generate Quick CMake Project From Template Script
+# Generate C++ CMake Project From Template
 
-Script that pulls CMake C++ Project template from `https://github.com/sndrummer/cmake_cpp_basic_template.git` and generates a project with the project name that is provided.
+Python script that pulls CMake C++ Project template from `https://github.com/sndrummer/cmake_cpp_basic_template.git` and generates a CMake git project with the project name that is provided.
 
 ### Requirements
 [GitPython](https://gitpython.readthedocs.io/en/stable/) must be installed.
